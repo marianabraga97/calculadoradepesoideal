@@ -1,0 +1,11 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.images {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+}
